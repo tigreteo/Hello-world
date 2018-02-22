@@ -1,2 +1,2 @@
 # Hello-world
-Following he tutorial to using GitHub
+Following the tutorial to using GitHub
